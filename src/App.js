@@ -286,7 +286,7 @@ const App = () => {
 			<input
 			  type="text"
 			  value={record}
-			  placeholder='whats ur ninja power?'
+			  placeholder='whats ur vibes?'
 			  onChange={e => setRecord(e.target.value)}
 			/>
 			  {/* If the editing variable is true, return the "Set record" and "Cancel" button */}
