@@ -53,7 +53,7 @@ header{
 
 .right{
   display: flex;
-  background: black;
+  background: rgb(56, 55, 122);
   border-radius: 16px;
   padding: 12px 20px;
   height: 99%;
