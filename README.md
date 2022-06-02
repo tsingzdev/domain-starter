@@ -13,4 +13,4 @@ If you use VSCode to build your app, we included a list of suggested extensions 
 
 
 ### **Shipment**
-check： https://polygonvns.vercel.app/ for the project output.
+check https://polygonvns.vercel.app/ for the project output.
